@@ -1,5 +1,5 @@
 numpy==1.17.0
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 cycler==0.10.0
 decorator==4.4.0
 imageio==2.5.0
